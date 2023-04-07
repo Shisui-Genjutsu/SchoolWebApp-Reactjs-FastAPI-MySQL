@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+passlib
+bcrypt
+cryptography
+PyMySQL
+python-jose
+python-multipart
+sqlalchemy
+starlette
+mysql-connector
+decouple

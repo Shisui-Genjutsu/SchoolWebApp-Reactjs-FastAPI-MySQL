@@ -1,0 +1,97 @@
+ul li{
+  font-family: 'Poppins', sans-serif;
+}
+
+.sidebaropts{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.sidebaropts li, .sidebaropts li .navlink{
+  transition: all 0.5s;
+}
+
+.sidebaropts li{
+  padding: 7px 0px;
+}
+
+/* .sidebaropts li:hover, .sidebaropts li .navlink:hover{
+  background-color: blue;
+  color: #fff; 
+  transition: all 0.5s;
+  border-radius: 3px;
+} */
+
+.act{
+  background-color: blue;
+  color: #fff;
+  border-radius: 3px;
+}
+
+.navlink{
+  font-size: 17px;
+  color: #8a2435;
+  font-weight: 600;
+  /* margin-left:40px; */
+}
+.navlinkicon{
+  margin-right:30px;
+}
+.navlinktext{
+  display: inline-block;
+  /* white-space: no-wrap; */
+}
+.highletnavlink{
+  border:2px solid red;
+  border-radius: 10px;
+}
+
+section.sidebar{
+  background: #FBFAF5;
+  border-radius: 9px;
+}
+
+.card1, .card2, .card3{
+  height: 110px;
+  width: 205px;
+}
+.card4{
+  width: 710px;
+  height: 290px;
+  margin-top: 20px;
+}
+.card5{
+  width: 240px;
+  height: 400x;
+}
+
+.card .head{
+  font-weight: 600;
+}
+
+.card .head .subtext{
+  font-size: 12px;
+}
+.cb{
+  color:white;
+  background-color: blue;
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+/* .registration{
+  margin-bottom: 10px;
+} */
+
+.dropdownul{
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  gap:20px
+}
+header{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
