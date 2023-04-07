@@ -1,4 +1,5 @@
 <h1 align="center">School Web Application</h1>
+<a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="MIT LicenSe"></a>
 <p>
 School Web Application using React JS, FastAPI and MySQL with JWT authentication and microservice architecture.
 This application has 4 microserices 3 backend microservices(student, teacher, admin) and 1 ui microservice(frontend)
@@ -6,6 +7,12 @@ all microservices has its own database MySQL
 backend is written in FastAPI python framework for building RestAPI
 frontend is written in ReactJs it is component based javascript library
 </p>
+
+<h3>#root Installations:</h3>
+<li>First install latest version of Python 3x</li>
+  #create virtual Environments to run in different environments
+  <li>Execute `py -m venv {{environment name}}`</li>
+
 
 <h3>#Installations for frontend:</h3>
 <ul>
