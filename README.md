@@ -5,6 +5,13 @@
 <a href="[LICENSE](https://github.com/Shisui-Genjutsu/SchoolWebApp-Reactjs-FastAPI-MySQL)"><img src="https://img.shields.io/github/directory-file-count/Shisui-Genjutsu/SchoolWebApp-Reactjs-FastAPI-MySQL" alt="MIT LicenSe"></a>
 </p>
 
+<h3>#Demo Work Screenshots:</h3>
+<p align="center">
+<img width="330" src="https://user-images.githubusercontent.com/112178680/230625713-969b0e34-feac-4352-a0bc-b62efd27e8d1.png" alt="MIT LicenSe">
+<img width="330" src="https://user-images.githubusercontent.com/112178680/230625723-cb62ee16-4072-4225-a877-6407ce821e32.png" alt="MIT LicenSe">
+<img width="330" src="https://user-images.githubusercontent.com/112178680/230625741-558cf5e3-44f9-4549-ac7b-3c69cad67bcd.png" alt="MIT LicenSe">
+</p>
+
 <p>
 School Web Application using React JS, FastAPI and MySQL with JWT authentication and microservice architecture.
 This application has 4 microserices 3 backend microservices(student, teacher, admin) and 1 ui microservice(frontend)
