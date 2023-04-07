@@ -1,5 +1,6 @@
 <h1 align="center">School Web Application</h1>
 <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="MIT LicenSe"></a>
+[![alt-text](https://img.shields.io/github/repo-size/Shisui-Genjutsu/SchoolWebApp-Reactjs-FastAPI-MySQL)](https://github.com/Shisui-Genjutsu/SchoolWebApp-Reactjs-FastAPI-MySQL)
 <p>
 School Web Application using React JS, FastAPI and MySQL with JWT authentication and microservice architecture.
 This application has 4 microserices 3 backend microservices(student, teacher, admin) and 1 ui microservice(frontend)
