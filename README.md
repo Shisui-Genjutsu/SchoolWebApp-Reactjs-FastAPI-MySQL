@@ -41,3 +41,6 @@ frontend is written in ReactJs it is component based javascript library
 <li>First Install latest Python</li>
 <li>Execute `pip install -r requirements.txt`</li>
 
+<br/>###Thankyou for visiting my github###<br/>
+@BhaskarGuthula
+
